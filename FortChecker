@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+"""Run FortChecker directly from this checkout."""
+import runpy
+
+runpy.run_module("fortchecker", run_name="__main__")
