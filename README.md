@@ -81,4 +81,4 @@ python3 -m compileall -q fortchecker
 ```
 
 Basic tests use temporary filesystem fixtures, not the host's security settings.
-No build step is required. Commit messages use Conventional Commits.
+No build step is required.
